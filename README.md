@@ -8,9 +8,8 @@
 
 
 - 🔭 I'm currently working on <a href="https://www.shinyhome.it"> **Shiny Home** </a>
-- 🌱 I've built this website <a href="http![Uploading Make your README.png…]()
-s://www.osteopataservadei.it"> **OsteopataServadei** </a>
-- 🙋🏻‍♂️ I've created a personal portfolio with my bestie at <a href="https://codebrothers.xyz"> **Codebrothers** </a>
+- 🌱 I've built this website <a href="https://www.osteopataservadei.it"> **OsteopataServadei** </a>
+- 🙋🏻‍♂️ I've created a personal portfolio website with my best friend at <a href="https://codebrothers.xyz"> **Codebrothers.xyz** </a>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -48,7 +47,4 @@ s://www.osteopataservadei.it"> **OsteopataServadei** </a>
 <a href="[https://linkedin.com/in/manueltestoni](https://www.linkedin.com/in/manuel-testoni-6ab62b26b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manueltestoni" height="30" width="40" /></a>
 <a href="https://instagram.com/gourmetmanu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gourmetmanu_" height="30" width="40" /></a>
 </p>
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
