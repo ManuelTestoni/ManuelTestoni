@@ -2,7 +2,7 @@
 <h3 align="center">An italian developer that likes studying computer science. I design, create and deploy websites for every kind of people. </h3>
 <p> I started studying IT when i was 14; Now I've gain a little confidence with it. I'm fascinated by everything regards this world. I'm always in search of something that stimulates me and that can teach me something. Ready to learn, happily devoted to tech world. </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manueltestoni" alt="manueltestoni" /></a> </p>
+
 
 - 🔭 I'm currently working on <a href="https://www.shinyhome.it"> **Shiny Home** </a>
 - 🌱 I've built this website <a href="https://www.osteopataservadei.it"> **OsteopataServadei** </a>
