@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I'm currently working on <a href="https://www.shinyhome.it"> **Shiny Home** </a>
-- 🌱 I've built this website <a href="https://www.osteopataservadei.it"> **OsteopataServadei** </a>
-- 🙋🏻‍♂️ I've created a personal portfolio website with my best friend at <a href="https://codebrothers.xyz"> **Codebrothers.xyz** </a>
+- 🔭 Genuinely interested in tech research
+- 🌱 Currently working on WatchOS application
+- 🙋🏻‍♂️ I've built 4 professional WordPress websites
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
