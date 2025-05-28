@@ -8,8 +8,11 @@
 
 
 - 🔭 Genuinely interested in tech research
-- 🌱 Currently working on WatchOS application
+- 🌱 Currently doing Deep Learning and Data Science research
 - 🙋🏻‍♂️ I've built 4 professional WordPress websites
+- 🎯 Aiming to graduate this september
+- 📖 Writing thesis on performance differences between centralized and clusterized crowd models for user classification
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
