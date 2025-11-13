@@ -10,7 +10,7 @@
 - 🔭 Genuinely interested in tech research
 - 🌱 Currently doing Deep Learning and Data Science research
 - 🙋🏻‍♂️ I've built 4 professional WordPress websites
-- 🎯 Aiming to graduate this september
+- 🎯 Bachelors degree in Computer Science in 28 October 2025, aiming to consecute Master degree in 2027 :)
 - 📖 Writing thesis on performance differences between centralized and clusterized crowd models for user classification
 
 
