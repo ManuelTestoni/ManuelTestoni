@@ -2,8 +2,8 @@
 
 ![MasterHead](https://github.com/ManuelTestoni/ManuelTestoni/assets/139223351/54e6f7d8-af54-4c7c-af04-0cee986be926)
 
-<h3 align="center">I'm an italian developer that likes studying computer science. I design, create and deploy websites for every kind of people. </h3>
-<p> I started studying IT when i was 14; Now I've gain a little confidence with it. I'm fascinated by everything regards this world. I'm always in search of something that stimulates me and that can teach me something. Ready to learn, happily devoted to tech world. </p>
+<h3 align="center">I'm an italian developer that likes studying computer science. Entered few months ago in Data Science world i'm a AI enthusiast. </h3>
+<p> I started studying IT when i was 14; Now I've gained a little confidence with it. I'm fascinated by everything regards this world. I'm always in search of something that stimulates me and that can teach me something. Ready to learn, happily devoted to tech world. </p>
 
 
 
@@ -11,7 +11,8 @@
 - 🌱 Currently doing Deep Learning and Data Science research
 - 🙋🏻‍♂️ I've built 4 professional WordPress websites
 - 🎯 Bachelors degree in Computer Science in 28 October 2025, aiming to consecute Master degree in 2027 :)
-- 📖 Writing thesis on performance differences between centralized and clusterized crowd models for user classification
+- 📖 Writing thesis on performance differences between crowded and clusterized models for Human Activity Recognition
+- ✒️ I've wrote a scientifc article on Personalized Human Activity Recognition through Clustering and Similarity-Driven Model Adaptation
 
 
 # 💻 Tech Stack:
@@ -21,16 +22,11 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
-![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
-
 
 
 
